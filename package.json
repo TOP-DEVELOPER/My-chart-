@@ -21,6 +21,7 @@
     "morgan": "^1.9.0",
     "node-env-file": "^0.1.8",
     "nodemailer": "^4.6.5",
+    "nodemon": "^2.0.19",
     "passport": "0.4.0",
     "passport-jwt": "^4.0.0",
     "react-toastify": "^4.0.1",
@@ -28,6 +29,5 @@
     "typescript": "~2.4.2"
   },
   "author": "",
-  "license": "MIT",
-  "devDependencies": {}
+  "license": "MIT"
 }
